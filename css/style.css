@@ -3,4 +3,9 @@ h1 {
   font-size: 5rem;
 }
 
+img {
+  width: 500px;
+  aspect-ratio: 1;
+}
+
 /*# sourceMappingURL=style.css.map */
